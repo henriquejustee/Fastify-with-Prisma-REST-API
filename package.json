@@ -4,8 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "fire": "nodemon ./src/server/fastify.controller.ts",
-    "ice": "ts-node ./temp.ts"
+    "fast": "nodemon ./src/server/fastify.controller.ts"
   },
   "devDependencies": {
     "@prisma/client": "^5.4.2",
