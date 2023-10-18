@@ -23,7 +23,6 @@
 `yarn`
 
 `yarn fast`
-### At this project, we can see a pratic exemple of a backend 
-service involving data from users.
+### At this project, we can see a pratic exemple of a backend service involving data from users.
 Fell free to leave your review or to use it as your learning material! :heart: :3 
 
